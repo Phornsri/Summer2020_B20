@@ -1,0 +1,21 @@
+package day04_Variables;
+public class PersonalInfo {
+    public static void main(String[] args) {
+        String firstName = "Jenny";
+        String lastName = "Smile";
+        int age = 25;
+        String country = "Thailand";
+        int SSN = 547-22-1238;
+        char gender = 'F';
+        boolean IsEmployee = true;
+        System.out.println("First Name is " + firstName);
+        System.out.println("Last Name is " + lastName);
+        System.out.println("Age is " + age);
+        System.out.println("Country is" + country);
+        System.out.println("SSN is " + SSN);
+        System.out.println("Gender: " + gender);
+        System.out.println("Employed " + isEmployed);
+
+        }
+
+}
