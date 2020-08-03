@@ -1,4 +1,4 @@
-package SelfPractice;
+package SelfPractice.day37;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
