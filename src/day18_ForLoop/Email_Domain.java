@@ -15,7 +15,7 @@ public class Email_Domain {
         String email = scan.next();
 
         String domain = "cybertek@gmail.com";
-        //              012345678
+        //               012345678
         int index1 = email.indexOf("@");
         int index2 = email.lastIndexOf(".");
 
