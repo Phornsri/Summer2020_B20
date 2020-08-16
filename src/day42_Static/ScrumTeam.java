@@ -63,6 +63,17 @@ public class ScrumTeam {
         developers.removeIf( p -> p.employeeID == employeeID );
     }
 
+    public String toString(){
+        return testers.size()+" testers, "+ developers.size()+" developers, PO: "+PO+", BA: "+BA+", SM: "+SM;
+    }
+
+    /*
+    team1
+    team2
+    team3
+     */
+    }
+
 
 
     /*
@@ -73,4 +84,4 @@ public class ScrumTeam {
 
 
 
-}
+
