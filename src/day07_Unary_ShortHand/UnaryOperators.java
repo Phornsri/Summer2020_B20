@@ -32,5 +32,8 @@ public class UnaryOperators {
         int z = 80;
         System.out.println( ++z ); // z = 81
         System.out.println(--z); // 80
+        System.out.println(--z);//79?
+        System.out.println(--z);//78?
+        System.out.println(++z);//79?
     }
 }
