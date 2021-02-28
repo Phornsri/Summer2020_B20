@@ -22,4 +22,9 @@ public class House {
        // tiger1.eat();
        // tiger1.drink();
     }
+    //outputs: Winton
+    //Dog{name='Winton', breed='Scotty Terrier', gender=M, age=4, color='Black'}
+    //Cat{name='Welat', breed='British Short hair', gender=M, age=1, color='White'}
+    //Tiger{name='Zara', breed='Caspian', gender=M, age=12, color='Brown'}
+    //Horse{name='Jacky', breed='Indian', gender=M, age=12, color='Brown'}
 }
