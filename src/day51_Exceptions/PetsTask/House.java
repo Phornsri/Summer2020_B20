@@ -16,6 +16,9 @@ public class House {
 
         System.out.println(tiger1);
 
+        Horse horse1 = new Horse("Jacky","Indian",'M',12,"Brown") ;
+        System.out.println(horse1);
+
        // tiger1.eat();
        // tiger1.drink();
     }
