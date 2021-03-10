@@ -1,4 +1,4 @@
-package day52_Exceptionss.Collins;
+package day52_Exceptionss.Phornsri;
 /*
 4. create a class called Google
             create 5 objects of the Tester and 5 objects of Developer

@@ -63,7 +63,5 @@ public class MultiCatchBlock {
 
         System.out.println("Completed");
 
-
-
     }
 }

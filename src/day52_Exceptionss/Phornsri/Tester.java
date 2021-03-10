@@ -1,4 +1,4 @@
-package day52_Exceptionss.Collins;
+package day52_Exceptionss.Phornsri;
 /*
 3. create subclasses of Employee called:
                         1. Tester

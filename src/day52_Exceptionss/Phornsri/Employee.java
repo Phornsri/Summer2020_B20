@@ -1,4 +1,4 @@
-package day52_Exceptionss.Collins;
+package day52_Exceptionss.Phornsri;
 /*
  2. create a subclass of person called Employee
             attributes: name, age, gender, ID, jobTitle, salary

@@ -1,4 +1,4 @@
-package day52_Exceptionss.Collins;
+package day52_Exceptionss.Phornsri;
 /*
 1. create a class called Person
             attributes:
